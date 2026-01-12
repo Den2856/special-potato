@@ -293,7 +293,7 @@ export default function Header() {
 
                 <div className="mt-6 rounded-2xl border border-white/10 bg-gradient-to-br from-background/60 to-dark/40 p-4 text-foreground-h">
                   <p className="text-sm/6 opacity-90">
-                    dfait
+                    Your best choose is us
                   </p>
                 </div>
 
