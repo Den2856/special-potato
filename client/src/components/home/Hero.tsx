@@ -55,7 +55,7 @@ export default function Hero() {
 
 
       {/* Ингредиенты */}
-      <div className="absolute top-0 left-0 right-0 bottom-0 max-w-7xl mx-auto">
+      <div className="absolute top-0 left-0 right-0 bottom-0 max-w-7xl mx-auto min-md:hidden max-md:block">
         {ingredients.map((ingredient) => (
           <motion.img
             key={ingredient.id}
